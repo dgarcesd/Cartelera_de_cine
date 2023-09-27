@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cartelera de cine</string>
+
+
+    <string name="texto">Selecciona una pelicula para ver su portada</string>
+    <string name="gravedad">GRAVEDAD</string>
+    <string name="jumanji">JUMANJI</string>
+    <string name="rey_leon">EL REY LEÓN</string>
+    <string name="star_wars">STAR WARS</string>
+    <string name="origen">EL ORIGEN</string>
+    <string name="toy_story">TOY STORY</string>
+    <string name="error">No introduzcas caracteres no numéricos</string>
+</resources>
